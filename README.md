@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @charliegreeny
 - 👀 I’m mainly interested in Go and backend development. Have experience with Java and Web Development. 
+- email=charliegreenhalgh97@gmail.com
