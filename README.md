@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @charliegreeny
 - 👀 I’m mainly interested in Go and backend development. Have experience with Java and Web Development. 
-- 🌱 I’m currently continuing my learning in Java and Javascript. Plus, expanding my skill set to include React.js and RPA.
-- 💞️ I’m looking to collaborate on everything really. I have experience in testing - unit and automated. Plus, looking to expand my coding skills by collaborating to open source projects.
-- 📫 email - charliegreenhalgh97@gmail.com
